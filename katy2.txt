@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 akjkjdkjonojknkakakaknkkndoehi hola que tal
+=======
+kakakaknkkndoehi hola que ta
+
+
+
+este texto lo escribi´p cristianl
+>>>>>>> 7e5d71cc2b7ee670ac2f2f6edd5af591bbb75a58

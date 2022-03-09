@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+hola como estas
+
+
+
+este texto lo escribe cristian 
+
+=======
 holalolknopynreiojhola como estas
+>>>>>>> f0b6fcf0b74c28915d6b4e0333cc25a44a52bb37
